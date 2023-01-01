@@ -107,6 +107,9 @@
         height: 150px;
         width: 200;
     }
+    .product-name, .product-price, .product-offer{
+        margin-bottom: 10px;
+    }
 }
 @media screen and (max-width: 900){
     .cart{
